@@ -20,16 +20,6 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/pear1-pea/Persona">Persona</a>
-  ·
-  <a href="https://github.com/pear1-pea/sast-readium">sast-readium</a>
-  ·
-  <a href="https://github.com/pear1-pea/PearContrib">PearContrib</a>
-</div>
-
-<br>
-
-<div align="center">
   <img height="160" src="https://github-readme-stats-topaz-theta-73.vercel.app/api?username=pear1-pea&show_icons=true&theme=shadow_blue" alt="pear1-pea's GitHub stats" />
   <img height="160" src="https://github-readme-stats-topaz-theta-73.vercel.app/api/top-langs?username=pear1-pea&layout=compact&theme=shadow_blue" alt="Most used languages" />
 </div>
